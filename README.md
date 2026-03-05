@@ -31,22 +31,6 @@ I'm a Senior SRE with **8+ years** of experience designing and operating large-s
 
 ---
 
-## 📂 Featured Projects
-
-### 🔍 [ReliabilityHub](https://github.com/vinuthaprak/reliabilityhub) — AI-Powered Service Discovery Platform
-> Python/Flask app integrated with OpenAI API for intelligent incident triage. Centralizes service discovery, communication channels, and Grafana/OpenObserve triage links for faster P0/P1 resolution.
-
-### 🏗️ [Terraform Modules Library](https://github.com/vinuthaprak/terraform-modules) — Multi-Cloud IaC
-> Reusable, production-grade Terraform modules for GCP GKE, AWS EKS, and Azure AKS. Reduces provisioning time from days to hours.
-
-### 📋 [SRE Runbooks](https://github.com/vinuthaprak/sre-runbooks) — Incident Response Automation
-> Comprehensive P0–P3 runbooks with automated self-healing scripts, escalation workflows, and postmortem templates.
-
-### 📈 [Kubernetes Observability Stack](https://github.com/vinuthaprak/k8s-observability) — Full-Stack Monitoring
-> Production-ready Prometheus + Grafana stack with SLO dashboards, golden signal alerting, and error budget tracking.
-
----
-
 ## 📈 GitHub Stats
 
 ![Vinutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinuthaprak&show_icons=true&theme=default&hide_border=true)
